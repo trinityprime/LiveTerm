@@ -1,20 +1,19 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "WELCOME!",
+  "name": "Ryan Lim",
+  "ascii": "WELCOME!",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "trinityprime",
+    "linkedin": "NIL"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "limkl.ryan@gmail.com",
+  "ps1_hostname": "ryan_lim",
+  "ps1_username": "portfolio",
+  "repo": "NIL",
+  "resume_url": "NIL",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "NIL",
+    "patreon": "NIL"
   },
   "colors": {
     "light": {
